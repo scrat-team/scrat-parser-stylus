@@ -1,0 +1,21 @@
+{
+  "name": "scrat-parser-stylus",
+  "version": "0.0.1",
+  "description": "A parser plugin for scrat to compile stylus file.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scrat-team/scrat-parser-stylus.git"
+  },
+  "author": "fouber <fouber.NET@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8.12"
+  },
+  "dependencies": {
+    "stylus": "0.43.1"
+  },
+  "devDependencies": {
+    "fis": ">=1.0.1"
+  }
+}
