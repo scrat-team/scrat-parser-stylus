@@ -1,6 +1,6 @@
 {
   "name": "scrat-parser-stylus",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A parser plugin for scrat to compile stylus file.",
   "main": "index.js",
   "repository": {
@@ -13,6 +13,6 @@
     "node": ">=0.8.12"
   },
   "dependencies": {
-    "stylus": "0.43.1"
+    "stylus": "0.44.0"
   }
 }
